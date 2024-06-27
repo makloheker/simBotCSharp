@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMxANQHMah1E47fl5FBNj2aVyKzMwM/QuAFJywNRIvsrrpTaCYphy7wdwRUWKG0G3XgfZWZi5HF5PNpOVybPMQ==",
+  "success": true,
+  "projectFilePath": "/home/poi/Documents/botSimsimi/c#/coek/coek.csproj",
+  "expectedPackageFiles": [
+    "/home/poi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
